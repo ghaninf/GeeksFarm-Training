@@ -1,4 +1,3 @@
 This is the original text
 This is on development_1 branch
 This is on development_1 branch edit yang ke 2
-This is on development_1 branch edit yang ke 3
